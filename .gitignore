@@ -1,0 +1,7 @@
+bin/turing
+bin/turing-test
+*.o
+*.d
+*.swp
+*.a
+*.so
